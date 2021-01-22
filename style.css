@@ -1,0 +1,379 @@
+body {
+  background-image: url("slike/background.jpg");
+  background-attachment: fixed;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.dugmici {
+  display: inline-block;
+  collapse: collapse;
+  margin-top: 50%;
+  margin-left: 10%;
+}
+
+.dugmeA {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeB {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeC {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeD {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeE {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeF {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeG {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeH {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeI {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeJ {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeK {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeL {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeM {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeN {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeO {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeP {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeQ {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeR {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeS {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeT {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeU {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeV {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeW {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeX {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeY {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.dugmeZ {
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+}
+
+#slovoP {
+  margin-top: -650px;
+  margin-left:80px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoI {
+  margin-top: -150px;
+  margin-left:140px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoR {
+  margin-top: -150px;
+  margin-left:190px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoA {
+  margin-top: -150px;
+  margin-left:240px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoT {
+  margin-top: -150px;
+  margin-left:300px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoE {
+  margin-top: -150px;
+  margin-left:355px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoS {
+  margin-top: -150px;
+  margin-left:410px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoO {
+  margin-top: -150px;
+  margin-left:490px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoF {
+  margin-top: -150px;
+  margin-left:555px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoT2 {
+  margin-top: -150px;
+  margin-left:640px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoH {
+  margin-top: -150px;
+  margin-left:690px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoE2 {
+  margin-top: -150px;
+  margin-left:750px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoC {
+  margin-top: -150px;
+  margin-left:830px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoA2 {
+  margin-top: -150px;
+  margin-left:885px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoR2 {
+  margin-top: -150px;
+  margin-left:940px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoI2 {
+  margin-top: -150px;
+  margin-left:1010px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoB {
+  margin-top: -150px;
+  margin-left:1050px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoB2 {
+  margin-top: -150px;
+  margin-left:1110px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoE3 {
+  margin-top: -150px;
+  margin-left:1160px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoA3 {
+  margin-top: -150px;
+  margin-left:1215px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#slovoN {
+  margin-top: -150px;
+  margin-left:1270px;
+  font-size:70px;
+  color:red;
+  visibility: hidden;
+}
+
+#glava {
+  margin-left: 990px;
+  margin-top:40px;
+  position: fixed;
+  visibility: hidden;
+}
+
+#telo {
+  margin-left: 1025px;
+  margin-top:159px;
+  position: fixed;
+  visibility: hidden;
+}
+
+#rukaL {
+  margin-left: 1055px;
+  margin-top:158px;
+  position: fixed;
+  visibility: hidden;
+}
+
+#rukaD {
+  margin-left: 1005px;
+  margin-top:158px;
+  position: fixed;
+  visibility: hidden;
+}
+
+#nogaL {
+  margin-left: 1055px;
+  margin-top:262px;
+  position: fixed;
+  visibility: hidden;
+}
+
+#nogaD {
+  margin-left: 1027px;
+  margin-top:262px;
+  position: fixed;
+  visibility: hidden;
+}
